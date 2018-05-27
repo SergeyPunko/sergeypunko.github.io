@@ -36,6 +36,6 @@ $('.bottom-bet').click(function(){
 $('.green').click(function(){
        $('.mask1').fadeToggle();
     });
-$('.com').click(function(){
-       $('.mask2').fadeToggle();
+$('.bids').click(function(){
+       $('.bids-list').fadeToggle();
     });
